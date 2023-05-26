@@ -6,6 +6,7 @@ This is an example of a simple API for users CRUD.
 
 1. Clone this repository to your local machine.
 2. Execute docker compose command in the repo folder: `docker-compose up -d `
+3. API ready, requests are made to `http://localhost:8080/api` Check the documentation bellow.
 
 ## License
 
